@@ -1,6 +1,8 @@
 # ArmStamper
 ArmStamper is an *AI robotic arm paper-stamping system* with a Hugging Face LeRobot arm and a **custom electronic stamper**. Using imitation learning, the robot arm learns to receive a sheet of paper, stamp it and give it back to the user.
 
+*Made for Stasis ^^*
+
 ## Why I Made This Project
 After receiving a Hugging Face LeRobot arm through Hack Club Prototype, I wanted to further practice **imitation learning** and train the arm with data of better quality and bigger amount. This project gives a structured environment with additional custom hardware *(the stamper)* for recording episodes and training an ACT model.
 
