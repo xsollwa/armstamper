@@ -1,10 +1,10 @@
 # ArmStamper
-ArmStamper is an *AI robotic arm paper-stamping station* with a Hugging Face LeRobot arm and a **custom electronic stamper**. Using imitation learning, the robot arm learns to receive a sheet of paper, stamp it and give it back to the user.
+ArmStamper is an *AI robotic arm paper-stamping station* with a Hugging Face LeRobot arm and a **custom electronic stamper**. Using imitation learning, the robot arm grabs a sheet of paper, stamps it and give it back to the user.
 
 *Made for Hack Club Stasis ^^*
 
 ## Why I Made This Project
-After receiving a Hugging Face LeRobot arm through Hack Club Prototype, I wanted to further practice **imitation learning** and train the arm with data of better quality and bigger amount. This project gives a structured environment with additional custom hardware *(the stamper)* for recording episodes and training an ACT model.
+After receiving a Hugging Face LeRobot arm through Hack Club Prototype, I wanted to further practice **imitation learning** and train the arm with data of better quality and bigger amount. This project gives a training environment with additional custom hardware *(the stamper)* for recording episodes and training an ACT model.
 
 **Photos:**
 
@@ -14,13 +14,13 @@ After receiving a Hugging Face LeRobot arm through Hack Club Prototype, I wanted
 
 
 
-**Note: the arm in this assembly is a [Standard Open SO-101 Arm from GrabCAD](https://grabcad.com/library/standard-open-so-101-arms-with-parallel-gripper-1). I added it because I could not find an assembled version of LeRobot arm parts online. In this project, I will use the [Hugging Face LeRobot SO-101 Arm](https://huggingface.co/docs/lerobot/so101) instead.*
+**Note: the arm in this assembly is a [Standard Open SO-101 Arm from GrabCAD](https://grabcad.com/library/standard-open-so-101-arms-with-parallel-gripper-1). I added it because I could not find an assembled version of LeRobot arm parts online. In this project, I will use the [Hugging Face LeRobot SO-101 Arm](https://huggingface.co/docs/lerobot/so101).*
 
 ## How It Works
 1. The user places a sheer of paper in the workspace
 2. The LeRobot arm picks up the paper
 3. Puts inside the stamper
-4. Activates the stamping mechanism
+4. Presses a button (starts the stamping mechanism)
 5. Removes the stamped paper
 6. Hands it back to the user
 
@@ -29,6 +29,8 @@ The arm learns this task through **imitation learning** using demonstration data
 **Wiring Diagram:**
 
 <img width="1000" height="620" alt="Screenshot from 2026-06-07 18-53-18" src="https://github.com/user-attachments/assets/f9987e3e-6812-42f6-b7cf-12b9bb5880c6" />
+
+*I decided to use a breadboard instead of a PCB because I found it more cost and time efficient, since my circuit only uses a few components and my soldering iron does not work. It also lets me to easily change the wiring if needed.*
 
 ## Bill of Materials (BOM)
 
