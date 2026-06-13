@@ -53,13 +53,28 @@ The arm learns this task through **imitation learning** using demonstration data
 
 I used some external resources in this project for learning and visualization purposes.
 
-**Tutorials and Documentation**
+### Tutorials and Documentation
 
 Hugging Face LeRobot Documentation: used to learn the ACT imitation learning and arm setup processes
+
 https://huggingface.co/docs/lerobot/index
 
+
+
 DIY Linear Servo Actuator video by Potent Printables: used the gears for servo linearization mechanism in the stamper
+
 https://youtu.be/2vAoOYF3m8U?si=TUcUIDMITSFrfjOI
 
-**CAD Models**
 
+
+### CAD Models
+
+Feetech FS90R Servo Motor CAD model from GrabCAD for visualization purposes in my CAD Assembly
+
+https://grabcad.com/library/fitec-fs90r-micro-servo-1
+
+
+
+Standard Open SO-101 Arm CAD model from GrabCAD for visualization purposes in my CAD Assembly
+
+https://grabcad.com/library/standard-open-so-101-arms-with-parallel-gripper-1
