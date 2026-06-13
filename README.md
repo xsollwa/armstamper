@@ -49,3 +49,17 @@ The arm learns this task through **imitation learning** using demonstration data
 
 *Note: I checked the prices/shipping/fees of most of the parts on AliExpress and the difference is ~$15 AND the parts will arrive only after Stasis deadline (after June 30) if I were to order from AliExpress :_) I also have Amazon Prime, so there will be no shipping fee if I order from Amazon*
 
+## References 
+
+I used some external resources in this project for learning and visualization purposes.
+
+**Tutorials and Documentation**
+
+Hugging Face LeRobot Documentation: used to learn the ACT imitation learning and arm setup processes
+https://huggingface.co/docs/lerobot/index
+
+DIY Linear Servo Actuator video by Potent Printables: used the gears for servo linearization mechanism in the stamper
+https://youtu.be/2vAoOYF3m8U?si=TUcUIDMITSFrfjOI
+
+**CAD Models**
+
