@@ -47,7 +47,7 @@ The arm learns this task through **imitation learning** using demonstration data
 | [Feetech FS90R Servo Motor](https://www.amazon.com/DIYmalls-Feetech-Continuous-Rotation-Microbit/dp/B092VN3MTX/ref=sr_1_3?crid=2O0NKBUQIUN7W&dib=eyJ2IjoiMSJ9.K-YOz0eSs79N-78F03SHqDiCPTEHwMLmLJfx6Yxnpv84FddGMdaTXJoqlo7Y9CjhLt1-miEfe6rzqp1Ew6xEtanvJV7PQqoYgFWNdzoMN9bmHQsp_3qaZu1M7fnBdPTVC3K-DycLDxf1gLco9lxA2QilbpEIIwe3wN9VAlmoY0fyYhdrXSCceogln6LWmzoYXbEwRv8_5fyTAfgFoLcqndqxGKuBXd3FmuUtmjI3rZZ-QboFNb8Eya7Z2sZ2M0nN1YEpDA0MG1X6mlCf2XZ-3cML77QugJU8JVh6msmU48U.P__iqCjUvG30lf09KaUwhz3BEBa2_qD5bC2SG0I-hXg&dib_tag=se&keywords=Feetech+FS90R+9g+micro+servo&qid=1780646878&refinements=p_36%3A-1400&rnid=386491011&s=toys-and-games&sprefix=feetech+fs90r+9g+micro+servo%2Ctoys-and-games%2C125&sr=1-3) | Provides motion for the stamper mechanism | 1 | $8.99 |
 | M3 Screws and Nuts | Assembling printed components | Various | $0.00 (Owned) |
 
-**Total Cost:** **$58.43** *(excluding taxes and materials already owned)*
+**Total Cost:** **$63.11** *(Shipping: $0.00, Taxes: $4.68)*
 
 *Note: I checked the prices/shipping/fees of most of the parts on AliExpress and the difference is ~$15 AND the parts will arrive only after Stasis deadline (after June 30) if I were to order from AliExpress :_) I also have Amazon Prime, so there will be no shipping fee if I order from Amazon*
 
