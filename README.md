@@ -37,7 +37,7 @@ The arm learns this task through **imitation learning** using demonstration data
 | Item | Purpose | Quantity | Cost |
 |------|---------|----------|------|
 | PLA Filament | 3D printing project components | 1 | $0.00 (Owned) |
-| [Mounting Tape](https://a.co/d/09au4UI1) | Mounting components into the environment | 1 | $2.99 |
+| [Electrical Tape](https://a.co/d/0g0o0oJO) | Securing soldered wires in the environment | 1 | $2.99 |
 | [LeRobot Arm](https://huggingface.co/docs/lerobot/so101) | Robotic arm used for imitation learning training | 1 | $0.00 (Owned)|
 | [Mini Breadboard with Jumper Wires](https://a.co/d/0cUBPXr7) | Wiring the circuit | 1 | $6.99 |
 | [AA Batteries](https://a.co/d/07304Eiz) | Powering the stamper | 4 | $6.49 |
