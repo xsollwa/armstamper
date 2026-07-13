@@ -27,6 +27,7 @@ After receiving a Hugging Face LeRobot arm through Hack Club Prototype, I wanted
 The arm learns this task through **imitation learning** using demonstration data recorded by me. This ACT Model was trained using an AMD Ryzen AI Pro 9HX processor laptop and **134 episodes over 20000 steps** on an NVIDIA H100 GPU.
 
 My HuggingFace ACT Model link: https://huggingface.co/xsollwa/act_armstamper_134_v1
+
 Dataset: https://huggingface.co/datasets/xsollwa/armstamper_150_v1_20260712_172652
 
 
