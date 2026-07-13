@@ -24,7 +24,7 @@ After receiving a Hugging Face LeRobot arm through Hack Club Prototype, I wanted
 5. Removes the stamped paper
 6. Hands it back to the user
 
-The arm learns this task through **imitation learning** using demonstration data recorded by me. This ACT Model was trained on **134 episodes over 20000 steps.**
+The arm learns this task through **imitation learning** using demonstration data recorded by me. This ACT Model was trained using an AMD Ryzen AI Pro 9HX processor laptop and **134 episodes over 20000 steps** on an NVIDIA H100 GPU.
 
 **Wiring Diagram:**
 
