@@ -1,7 +1,7 @@
 # ArmStamper
 ArmStamper is an *AI robotic arm paper-stamping station* with a Hugging Face LeRobot arm and a **custom electronic stamper**. Using imitation learning, the robot arm grabs a sheet of paper, stamps it and give it back to the user.
 
-*Made for Hack Club Stasis ^^*
+*Demo video: https://youtu.be/PeNh52cL_to?si=ATEgpKATYhduCFe_*
 
 ## Why I Made This Project
 After receiving a Hugging Face LeRobot arm through Hack Club Prototype, I wanted to further practice **imitation learning** and train the arm with data of better quality and bigger amount. This project gives a training environment with additional custom hardware *(the stamper)* for recording episodes and training an ACT model.
@@ -24,7 +24,7 @@ After receiving a Hugging Face LeRobot arm through Hack Club Prototype, I wanted
 5. Removes the stamped paper
 6. Hands it back to the user
 
-The arm learns this task through **imitation learning** using demonstration data recorded by me.
+The arm learns this task through **imitation learning** using demonstration data recorded by me. This ACT Model was trained on **134 episodes over 20000 steps.**
 
 **Wiring Diagram:**
 
@@ -48,8 +48,6 @@ The arm learns this task through **imitation learning** using demonstration data
 | M3 Screws and Nuts | Assembling printed components | Various | $0.00 (Owned) |
 
 **Total Cost:** **$63.11** *(Shipping: $0.00, Taxes: $4.68)*
-
-*Note: I checked the prices/shipping/fees of most of the parts on AliExpress and the difference is ~$15 AND the parts will arrive only after Stasis deadline (after June 30) if I were to order from AliExpress :_) I also have Amazon Prime, so there will be no shipping fee if I order from Amazon*
 
 ## References 
 
